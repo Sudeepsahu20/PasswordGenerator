@@ -26,7 +26,7 @@ Users can also **copy** the generated password to their clipboard with a single 
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/Sudeepsahu20/PasswordGenerator.git
 
 # Navigate to project folder
 cd password-generator
